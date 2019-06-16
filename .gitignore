@@ -6,3 +6,4 @@ lib/binding/*
 node_modules/*
 *.swp
 *.log
+*.nvmrc

@@ -43,5 +43,8 @@
       "type": "BSD"
     }
   ],
-  "main": "./lib/printer"
+  "main": "./lib/printer",
+  "dependencies": {
+    "node-pre-gyp": "^0.13.0"
+  }
 }
